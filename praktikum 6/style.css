@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 200px;
+    margin-left: 40px;
+ }
+.cheetah{
+    width: 370px;
+    height: 130px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    background-image: url("images/cheetah1.jpg");
+}
+.kucing{
+    width: 210px;
+    height: 135px;
+    margin: 10px;
+    border: 1px solid black; 
+    border-radius:10px;
+    background-image: url("img/kucing1.jpg");
+}
+.gajah{
+    width: 230px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid black; 
+    border-radius:10px;
+    background-image: url("img/gajah.png");
+}
